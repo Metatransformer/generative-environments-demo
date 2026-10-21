@@ -1,6 +1,9 @@
 # Generative Environments — Field Notes
 
-A standalone public Three.js study of deterministic terrain, ecological scatter, and footprint-aware structure placement. It is inspired by the publicly described environment-generation principles behind Nick Bryant's [*The Lower Worlds I: Valenfeld* on itch.io](https://metatransformer.itch.io/the-lower-worlds-i-valenfeld) and accompanies the forthcoming article [“Building Procedural Environments”](https://valenfeldgame.com/blog/building-procedural-environments).
+**[Open the live demo →](https://generative-environments-demo.vercel.app)** · [Read the article](https://metatransformer.com/blog/building-procedural-environments)
+
+
+A standalone public Three.js study of deterministic terrain, ecological scatter, and footprint-aware structure placement. It is inspired by the publicly described environment-generation principles behind Nick Bryant's [*The Lower Worlds I: Valenfeld* on itch.io](https://metatransformer.itch.io/the-lower-worlds-i-valenfeld) and accompanies the article [“Building Procedural Environments”](https://metatransformer.com/blog/building-procedural-environments).
 
 This repository is an original, small educational reimplementation. It is **not** the source of Valenfeld or any other game, is not a direct Godot port, and contains no private assets, production implementation, credentials, prompts, or game lore.
 
